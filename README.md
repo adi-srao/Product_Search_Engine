@@ -32,10 +32,6 @@ Best config: fine-tuned CLIP + BLIP-2, α = 0.7 (mean ± std over 4 seeds).
 
 ## Setup
 
-```bash
-pip install open-clip-torch hnswlib ultralytics transformers streamlit
-```
-
 Checkpoints and index files are not included. Run the notebooks in order:
 
 | Notebook | Description |
