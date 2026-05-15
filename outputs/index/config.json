@@ -1,0 +1,9 @@
+{
+  "alpha": 0.7,
+  "clip_model": "ViT-B-32",
+  "yolo_model": "yolov8n.pt",
+  "embed_dim": 512,
+  "n_gallery": 12612,
+  "hnsw_ef": 200,
+  "hnsw_m": 16
+}
